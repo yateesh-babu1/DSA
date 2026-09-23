@@ -4,10 +4,12 @@
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/yateesh-babu1/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/yateesh-babu1/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/yateesh-babu1/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/yateesh-babu1/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -20,5 +22,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/yateesh-babu1/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/yateesh-babu1/DSA/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
