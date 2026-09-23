@@ -11,6 +11,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/yateesh-babu1/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/yateesh-babu1/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0771-jewels-and-stones](https://github.com/yateesh-babu1/DSA/tree/master/0771-jewels-and-stones) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,4 +25,8 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/yateesh-babu1/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/yateesh-babu1/DSA/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/yateesh-babu1/DSA/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
