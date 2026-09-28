@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/yateesh-babu1/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [3884-first-matching-character-from-both-ends](https://github.com/yateesh-babu1/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/yateesh-babu1/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/yateesh-babu1/DSA/tree/master/0771-jewels-and-stones) |
+| [3884-first-matching-character-from-both-ends](https://github.com/yateesh-babu1/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Queue
 |  |
 | ------- |
