@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/yateesh-babu1/DSA/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/yateesh-babu1/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/yateesh-babu1/DSA/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/yateesh-babu1/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/yateesh-babu1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yateesh-babu1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/yateesh-babu1/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yateesh-babu1/DSA/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/yateesh-babu1/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/yateesh-babu1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yateesh-babu1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3884-first-matching-character-from-both-ends](https://github.com/yateesh-babu1/DSA/tree/master/3884-first-matching-character-from-both-ends) |
