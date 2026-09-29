@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yateesh-babu1/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/yateesh-babu1/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/yateesh-babu1/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/yateesh-babu1/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/yateesh-babu1/DSA/tree/master/0283-move-zeroes) |
@@ -24,6 +25,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yateesh-babu1/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/yateesh-babu1/DSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/yateesh-babu1/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/yateesh-babu1/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -37,6 +39,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yateesh-babu1/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/yateesh-babu1/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/yateesh-babu1/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/yateesh-babu1/DSA/tree/master/0349-intersection-of-two-arrays) |
