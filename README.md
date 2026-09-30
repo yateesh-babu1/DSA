@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yateesh-babu1/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/yateesh-babu1/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yateesh-babu1/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/yateesh-babu1/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/yateesh-babu1/DSA/tree/master/0217-contains-duplicate) |
@@ -25,6 +26,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yateesh-babu1/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yateesh-babu1/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/yateesh-babu1/DSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/yateesh-babu1/DSA/tree/master/0283-move-zeroes) |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yateesh-babu1/DSA/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/yateesh-babu1/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
