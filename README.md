@@ -58,6 +58,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/yateesh-babu1/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/yateesh-babu1/DSA/tree/master/0771-jewels-and-stones) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yateesh-babu1/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3884-first-matching-character-from-both-ends](https://github.com/yateesh-babu1/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Queue
 |  |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yateesh-babu1/DSA/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yateesh-babu1/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yateesh-babu1/DSA/tree/master/0042-trapping-rain-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yateesh-babu1/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -100,4 +103,8 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/yateesh-babu1/DSA/tree/master/0713-subarray-product-less-than-k) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yateesh-babu1/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
