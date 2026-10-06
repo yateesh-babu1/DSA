@@ -17,6 +17,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/yateesh-babu1/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1207-unique-number-of-occurrences](https://github.com/yateesh-babu1/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yateesh-babu1/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yateesh-babu1/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yateesh-babu1/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Math
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yateesh-babu1/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
