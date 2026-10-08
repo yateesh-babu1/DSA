@@ -60,6 +60,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/yateesh-babu1/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/yateesh-babu1/DSA/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yateesh-babu1/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/yateesh-babu1/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [3884-first-matching-character-from-both-ends](https://github.com/yateesh-babu1/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Queue
 |  |
@@ -91,6 +92,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yateesh-babu1/DSA/tree/master/0042-trapping-rain-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yateesh-babu1/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/yateesh-babu1/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yateesh-babu1/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/yateesh-babu1/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
 | ------- |
