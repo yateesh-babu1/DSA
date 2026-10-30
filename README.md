@@ -114,5 +114,6 @@
 ## Math
 |  |
 | ------- |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/yateesh-babu1/DSA/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yateesh-babu1/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
