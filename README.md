@@ -15,6 +15,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/yateesh-babu1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/yateesh-babu1/DSA/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/yateesh-babu1/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/yateesh-babu1/DSA/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/yateesh-babu1/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yateesh-babu1/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yateesh-babu1/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/yateesh-babu1/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/yateesh-babu1/DSA/tree/master/0724-find-pivot-index) |
 ## Bracket Sequences
 |  |
 | ------- |
